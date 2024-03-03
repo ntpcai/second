@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkntpcai_second=self.webpackChunkntpcai_second||[]).push([[582],{582:(e,a,s)=>{e.exports=s.p+"static/media/6384.94d4325efe89a7a1aa47.mp3"}}]);

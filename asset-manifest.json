@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4583b3ed.css",
+    "main.js": "/static/js/main.c0992f8c.js",
+    "static/js/905.8388065a.chunk.js": "/static/js/905.8388065a.chunk.js",
+    "static/js/457.777935d1.chunk.js": "/static/js/457.777935d1.chunk.js",
+    "static/js/582.f46cc6db.chunk.js": "/static/js/582.f46cc6db.chunk.js",
+    "static/js/240.a326006f.chunk.js": "/static/js/240.a326006f.chunk.js",
+    "static/media/TW-Kai-98_1.ttf": "/static/media/TW-Kai-98_1.d8bafded3725e28f8ce9.ttf",
+    "static/media/ToneOZ-Zhuyin-Kai-Traditional.ttf": "/static/media/ToneOZ-Zhuyin-Kai-Traditional.89ef2d5ce089c9b4fec4.ttf",
+    "static/media/TW-Kai-98_1.woff2": "/static/media/TW-Kai-98_1.646c1f26042a01efdc01.woff2",
+    "static/media/ToneOZ-Zhuyin-Kai-Traditional.woff2": "/static/media/ToneOZ-Zhuyin-Kai-Traditional.de29c5666bda3bddb5e7.woff2",
+    "static/media/ToneOZ-RadicalZ-KaiTraditional.ttf": "/static/media/ToneOZ-RadicalZ-KaiTraditional.6d8f2cc482482d3b57c4.ttf",
+    "static/media/ToneOZ-RadicalZ-KaiTraditional.woff2": "/static/media/ToneOZ-RadicalZ-KaiTraditional.51a812c98933db6db0e8.woff2",
+    "static/media/shuffled.png": "/static/media/shuffled.312a41a892a91ab5cafb.png",
+    "static/media/6384.mp3": "/static/media/6384.94d4325efe89a7a1aa47.mp3",
+    "static/media/4341b.mp3": "/static/media/4341b.262340f73355a0b5e124.mp3",
+    "static/media/6384b.mp3": "/static/media/6384b.90c78a542607059d9d1c.mp3",
+    "static/media/4341.mp3": "/static/media/4341.447b47caedf72230d4fa.mp3",
+    "index.html": "/index.html",
+    "main.4583b3ed.css.map": "/static/css/main.4583b3ed.css.map",
+    "main.c0992f8c.js.map": "/static/js/main.c0992f8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4583b3ed.css",
+    "static/js/main.c0992f8c.js"
+  ]
+}
