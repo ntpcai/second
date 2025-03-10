@@ -1,17 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcb7852a.css",
-    "main.js": "/static/js/main.a8a97d12.js",
+    "main.css": "/static/css/main.38ce9580.css",
+    "main.js": "/static/js/main.b0517e19.js",
     "static/js/905.8388065a.chunk.js": "/static/js/905.8388065a.chunk.js",
-    "static/js/457.777935d1.chunk.js": "/static/js/457.777935d1.chunk.js",
-    "static/js/582.f46cc6db.chunk.js": "/static/js/582.f46cc6db.chunk.js",
-    "static/js/240.a326006f.chunk.js": "/static/js/240.a326006f.chunk.js",
-    "static/js/955.802c11c6.chunk.js": "/static/js/955.802c11c6.chunk.js",
-    "static/js/887.65bb8608.chunk.js": "/static/js/887.65bb8608.chunk.js",
-    "static/js/648.7e4f603c.chunk.js": "/static/js/648.7e4f603c.chunk.js",
-    "static/js/641.c96d1810.chunk.js": "/static/js/641.c96d1810.chunk.js",
+    "static/js/457.31b25fa9.chunk.js": "/static/js/457.31b25fa9.chunk.js",
+    "static/js/582.fdf68f1c.chunk.js": "/static/js/582.fdf68f1c.chunk.js",
+    "static/js/240.4c57defc.chunk.js": "/static/js/240.4c57defc.chunk.js",
+    "static/js/955.83a3d02c.chunk.js": "/static/js/955.83a3d02c.chunk.js",
+    "static/js/887.1ca2d834.chunk.js": "/static/js/887.1ca2d834.chunk.js",
+    "static/js/648.502441b2.chunk.js": "/static/js/648.502441b2.chunk.js",
+    "static/js/641.7c81375f.chunk.js": "/static/js/641.7c81375f.chunk.js",
+    "static/media/subsubmenu.png": "/static/media/subsubmenu.aa2dfdae53823a3c740a.png",
+    "static/media/learnwrite.png": "/static/media/learnwrite.e47eb9ad78c793ced69d.png",
+    "static/media/learnplay.png": "/static/media/learnplay.ff10136fda37453ac012.png",
+    "static/media/mainmenu.png": "/static/media/mainmenu.43edd5f821a448bf4fb6.png",
+    "static/media/write.png": "/static/media/write.bb2e64fe016028ea7c19.png",
+    "static/media/learn.png": "/static/media/learn.09e1ea49bd2880f6e242.png",
+    "static/media/back.png": "/static/media/back.34aabd375afe4332865c.png",
+    "static/media/practice.png": "/static/media/practice.57a6ae12d26d0bbfb5cc.png",
+    "static/media/submenu.png": "/static/media/submenu.4b96c63cd5d58466bd5b.png",
+    "static/media/modes.png": "/static/media/modes.54781dcc24e3465b0e08.png",
     "static/media/6384.mp3": "/static/media/6384.94d4325efe89a7a1aa47.mp3",
+    "static/media/selectpracticelist.png": "/static/media/selectpracticelist.d1fc8bb3520e1aa4ef62.png",
+    "static/media/addpracticelist.png": "/static/media/addpracticelist.c6f0d849d8a00a9bdd54.png",
+    "static/media/selectlearnwrite.png": "/static/media/selectlearnwrite.59b374673197eaf48ae9.png",
     "static/media/4341b.mp3": "/static/media/4341b.262340f73355a0b5e124.mp3",
+    "static/media/selectautoplay.png": "/static/media/selectautoplay.703efffdbe1197d32087.png",
     "static/media/6384b.mp3": "/static/media/6384b.90c78a542607059d9d1c.mp3",
     "static/media/m.mp3": "/static/media/m.8c79be1630e9d609af24.mp3",
     "static/media/f.mp3": "/static/media/f.8996acf994b6b93eee01.mp3",
@@ -19,11 +33,11 @@
     "static/media/p.mp3": "/static/media/p.c0b168f28b700b3f25e0.mp3",
     "static/media/4341.mp3": "/static/media/4341.447b47caedf72230d4fa.mp3",
     "index.html": "/index.html",
-    "main.bcb7852a.css.map": "/static/css/main.bcb7852a.css.map",
-    "main.a8a97d12.js.map": "/static/js/main.a8a97d12.js.map"
+    "main.38ce9580.css.map": "/static/css/main.38ce9580.css.map",
+    "main.b0517e19.js.map": "/static/js/main.b0517e19.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcb7852a.css",
-    "static/js/main.a8a97d12.js"
+    "static/css/main.38ce9580.css",
+    "static/js/main.b0517e19.js"
   ]
 }
